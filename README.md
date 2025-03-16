@@ -2,8 +2,7 @@
 
 ## 🔗 Project Links & Resources  
 - **📊 Live Dashboard File:** [View Here](https://drive.google.com/drive/folders/17xcD7XmsOIwq4cbj4uT4M4KsxdovADHA?usp=sharing)  
-- **🎥 Video Presentation:** [Watch Here](#)  
-- **📑 Presentation (PPT):** [Download Here](#)  
+- **🎥 Video Presentation:** [Watch Here](https://youtu.be/XGYVJ8qV8Uw?si=IPWPxcQi9KCB51K-) 
 - **💼 LinkedIn Post:** [Read Here](#)  
 
 ---
