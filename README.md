@@ -37,6 +37,8 @@ This project provides **data-driven insights** to assist in the strategic merger
 
 ## 📷 Dashboard Preview
 ![Screenshot 2025-03-12 130441](https://github.com/user-attachments/assets/79badefd-3dc6-4145-83c3-2d561fd27191)
+![Screenshot 2025-03-12 130622](https://github.com/user-attachments/assets/e5fe39ea-499f-4450-9ea1-5c2dda970f17)
+![Screenshot 2025-03-12 130709](https://github.com/user-attachments/assets/2c61fbf4-0ac0-4627-804d-f581d4be6287)
 
 
 ## 📊 Tools & Technologies Used
