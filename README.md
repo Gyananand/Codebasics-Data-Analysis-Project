@@ -1,7 +1,7 @@
 # Strategic Merger in the OTT Domain - Data Analysis Project
 
 ## 🔗 Project Links & Resources  
-- **📊 Live Dashboard:** [View Here](#)  
+- **📊 Live Dashboard:** [View Here]("C:\Users\08viv\Downloads\Input_files\RPC14_Input_For_Participants\Codebasics Presentation.pptx")  
 - **🎥 Video Presentation:** [Watch Here](#)  
 - **📑 Presentation (PPT):** [Download Here](#)  
 - **💼 LinkedIn Post:** [Read Here](#)  
