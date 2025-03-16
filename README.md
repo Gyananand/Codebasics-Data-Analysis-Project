@@ -1,5 +1,13 @@
 # Strategic Merger in the OTT Domain - Data Analysis Project
 
+## 🔗 Project Links & Resources  
+- **📊 Live Dashboard:** [View Here](#)  
+- **🎥 Video Presentation:** [Watch Here](#)  
+- **📑 Presentation (PPT):** [Download Here](#)  
+- **💼 LinkedIn Post:** [Read Here](#)  
+
+---
+
 ## 📌 Project Overview
 This project provides **data-driven insights** to assist in the strategic merger between **LioCinema** (a leading telecom-backed streaming service) and **Jotstar** (a top OTT platform in India). The analysis focuses on **subscriber trends, content consumption, inactivity patterns, revenue estimation, and upgrade/downgrade behaviors** to guide post-merger strategy and establish **Lio-Jotstar** as India's leading OTT platform.
 
