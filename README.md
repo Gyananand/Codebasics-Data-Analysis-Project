@@ -35,22 +35,15 @@ This project provides **data-driven insights** to assist in the strategic merger
 ### 6️⃣ **Revenue Analysis**  
 - **Revenue estimation** based on **subscription plans, user activity, and upgrades/downgrades**.
 
+## 📷 Dashboard Preview
+![Screenshot 2025-03-12 130441](https://github.com/user-attachments/assets/79badefd-3dc6-4145-83c3-2d561fd27191)
+
+
 ## 📊 Tools & Technologies Used
-- **Python** *(Pandas, NumPy, Matplotlib, Seaborn)*
 - **SQL** *(for data extraction and querying)*
-- **Power BI / Tableau** *(for dashboard visualization)*
+- **Power BI** *(for dashboard visualization)*
 - **Excel** *(for initial data exploration)*
 - **PowerPoint** *(for stakeholder presentation)*
-
-## 📁 Project Structure
-```plaintext
-📂 Strategic-Merger-OTT
-│-- 📁 Data                   # Raw datasets & metadata
-│-- 📁 Notebooks              # Jupyter Notebooks with analysis
-│-- 📁 Dashboard              # Power BI / Tableau dashboard files
-│-- 📁 Presentation           # Final PPT and video presentation
-│-- README.md                # Project overview (this file)
-```
 
 ## 📊 Dashboard & Visuals
 📌 **Key Insights & Trends** are available in the **Power BI dashboard**, providing an **interactive comparison** of LioCinema and Jotstar. 
@@ -67,6 +60,6 @@ A **detailed walkthrough** of the findings, dashboard insights, and recommendati
 
 ## 🏆 Acknowledgments
 - **Codebasics.io** for the dataset and project challenge.
-- **Contributors**: [Your Name]
+- **Contributors**: [Gyan Anand]
 
 🚀 **If you find this project insightful, give it a ⭐ on GitHub!**
